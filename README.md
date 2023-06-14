@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm CHINTU RAJ GUPTA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on **Face recognition attendence system**
+- 🔭 I’m currently working on **DoseWise a HealthCare Project**
 
 - 🌱 I’m currently learning **Data structure & Algorithmsm**
 
