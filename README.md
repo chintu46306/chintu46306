@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm CHINTU RAJ GUPTA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-(https://komarev.com/ghpvc/?username=chintu46306)
-
 
 - 🔭 I’m currently working on **DoseWise a HealthCare Project**
 
