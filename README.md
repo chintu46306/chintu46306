@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **DoseWise a HealthCare Project**
 
-- 🌱 I’m currently learning **Data structure & Algorithmsm**
+- 🌱 I’m currently learning **Backend Development**
 
 - 💬 Ask me about **Anything you want**
 
