@@ -26,3 +26,5 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chintu46306&theme=tokyonight)
 
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=chintu46306&langs_count=5&theme=tokyonight)]()
+
