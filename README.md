@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm CHINTU RAJ GUPTA</h1>
 <h3 align="center">I am a passionate and driven Full Stack Developer, Programmer and Graphic Designer with a hunger for learning new technical skills and staying updated with the latest trends in the industry.</h3>
 
+- 🔭 I’m currently working on **EduWave Project**
+  
 - 🔭 I’m currently working on **DoseWise a HealthCare Project**
 
 - 🌱 I’m currently learning **Backend Development**
