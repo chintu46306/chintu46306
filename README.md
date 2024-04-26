@@ -28,4 +28,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=chintu46306&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
-[![Leetcode Stats](https://leetcard.chintu46306/chintu46306)](https://leetcode.com/chintu46306)
+[![Leetcode Stats](https://leetcard.chintu.46306/chintu46306)](https://leetcode.com/chintu46306)
